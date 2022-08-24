@@ -2,6 +2,7 @@
 
  - This is a repository that I use as an example repo to illustrate some aspects of Reproducible Data Science
  - Recorded versions of the tutorial:
-   - https://www.youtube.com/watch?v=YB3-zuoIzCc
+   - Most recent: OceanHackWeek 2022  https://www.youtube.com/watch?v=YB3-zuoIzCc
+   - Simplex course 2022 https://drive.google.com/drive/folders/1Mpsnu2DHRZw7lUv2OxGf_rKy3ifBniqI
  - Slides are available in the Tutorials directory
    - https://github.com/SeascapeScience/reproducibility/blob/main/tutorial/ReproducibleResearch2022.08.15ohw.pdf
